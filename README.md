@@ -1,5 +1,5 @@
 # BIMM-143-Python-Project-3
-16s and 23s rRNA comparisons of M. pneumoniae and C. M. luminyensis, C. M. intestinalis and C. M. alvus suggest these two groups had a common evolutionary ancestor that lacks cell walls and dwelled in the human body.
+A high similarity in 16s and 23s rRNA comparisons of M. pneumoniae and C. M. luminyensis, C. M. intestinalis and C. M. alvus suggest these two groups had a common evolutionary ancestor that lacks cell walls and dwelled in the human body.
 
 You will need a few files in order to adequately run the code:
 1) Jupyter notebook
